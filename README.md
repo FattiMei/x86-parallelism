@@ -31,3 +31,5 @@ Il numero di cicli impiegati è la differenza delle due misure
 
 
 ## Cosa rende complessa l'analisi
+Il programma di test viene eseguito sulla cpu sotto controllo del sistema operativo, che decide quante risorse assegnare al programma. Le misure sono soggette a variazioni imprevedibili, come mostrato nel seguente grafico:
+![grafico](./template/foo.svg)
